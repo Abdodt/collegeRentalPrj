@@ -1,0 +1,24 @@
+{
+  "name": "collegerentalprj",
+  "version": "1.0.0",
+  "description": "BasicProject Structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdodt/collegeRentalPrj.git"
+  },
+  "keywords": [
+    "Rental",
+    "Website"
+  ],
+  "author": "Abdullah Naseef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdodt/collegeRentalPrj/issues"
+  },
+  "homepage": "https://github.com/Abdodt/collegeRentalPrj#readme"
+}
